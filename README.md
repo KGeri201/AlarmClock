@@ -14,10 +14,14 @@ I wanted to mimik the clock of a general smartphone and set alarms easily throug
 Because I use an ESP32 I also hope to be able to display some notifications through bluetooth.   
 
 ## Hardware
+### PCB
 It is a nearly one sided PCB.   
 Unfortunatelly I had to make three GND-connections to the second site to make the design some sort of clean.  
   
 Special thanks to [dereisl](https://github.com/dereisl) for the perfect [documentation](https://github.com/dereisl/esp32-radio).  
+
+### Case
+**W**ork **i**n **P**rogress  
 
 ## Software
 **W**ork **i**n **P**rogress
