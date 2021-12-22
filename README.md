@@ -17,7 +17,7 @@ Because I use an ESP32 I also hope to be able to display some notifications thro
 It is a nearly one sided PCB. 
 Unfortunatelly I had to make three GND-connections to the second site to make the design some sort of clean.
 
-Special thanks to the perfect dokumentation: [dereisl](https://github.com/dereisl/esp32-radio)
+Special thanks for the perfect dokumentation: [dereisl](https://github.com/dereisl/esp32-radio)
 
 ## Software
 **W**ork **i**n **P**rogress
