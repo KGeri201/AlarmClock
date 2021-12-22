@@ -18,7 +18,7 @@ It is a nearly one sided PCB.
 Unfortunatelly I had to make three GND-connections to the second site to make the design some sort of clean.
 
 ## Software
-**W**ork**I**n**P**rogress
+**W**ork **i**n **P**rogress
 
 ## Credits
 [KGeri201](https://github.com/KGeri201)
