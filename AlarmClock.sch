@@ -10825,11 +10825,12 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <part name="GND7" library="SparkFun-PowerSymbols" deviceset="GND" device=""/>
 <part name="VDD1" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="VDD" device=""/>
 <part name="T1" library="transistor" library_urn="urn:adsk.eagle:library:402" deviceset="BC848" device="" package3d_urn="urn:adsk.eagle:package:28738/2"/>
-<part name="R1" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R1206" package3d_urn="urn:adsk.eagle:package:23540/2"/>
+<part name="R1" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R1206" package3d_urn="urn:adsk.eagle:package:23540/2" value="10k"/>
 <part name="GND8" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="VDD5" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="VDD" device=""/>
 <part name="GND5" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="JP1" library="pinhead-ext" deviceset="PINHD-1X2" device="_2.54"/>
+<part name="VDD6" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="VDD" device=""/>
 </parts>
 <sheets>
 <sheet>
@@ -10948,7 +10949,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <attribute name="VALUE" x="17.78" y="20.32" size="1.778" layer="96"/>
 </instance>
 <instance part="SG1" gate="G$1" x="195.58" y="149.86" smashed="yes" rot="R90">
-<attribute name="NAME" x="189.23" y="147.32" size="1.778" layer="95" rot="R90"/>
+<attribute name="NAME" x="185.42" y="151.13" size="1.778" layer="95"/>
 </instance>
 <instance part="BME280" gate="A" x="101.6" y="25.4" smashed="yes" rot="R180">
 <attribute name="NAME" x="107.95" y="14.605" size="1.778" layer="95" rot="R180"/>
@@ -10961,12 +10962,12 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <attribute name="VALUE" x="127" y="35.56" size="1.778" layer="96"/>
 </instance>
 <instance part="T1" gate="G$1" x="195.58" y="132.08" smashed="yes">
-<attribute name="NAME" x="185.42" y="139.7" size="1.778" layer="95"/>
-<attribute name="VALUE" x="185.42" y="137.16" size="1.778" layer="96"/>
+<attribute name="NAME" x="195.58" y="134.62" size="1.778" layer="95"/>
+<attribute name="VALUE" x="198.12" y="129.54" size="1.778" layer="96"/>
 </instance>
 <instance part="R1" gate="G$1" x="187.96" y="132.08" smashed="yes">
 <attribute name="NAME" x="186.1566" y="133.35" size="1.778" layer="95"/>
-<attribute name="VALUE" x="185.928" y="131.064" size="1.778" layer="96" rot="R270"/>
+<attribute name="VALUE" x="186.182" y="129.032" size="1.778" layer="96"/>
 </instance>
 <instance part="GND8" gate="1" x="198.12" y="124.46" smashed="yes">
 <attribute name="VALUE" x="195.58" y="121.92" size="1.778" layer="96"/>
@@ -10980,6 +10981,9 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <instance part="JP1" gate="G$1" x="109.22" y="78.74" smashed="yes" rot="R180">
 <attribute name="NAME" x="115.57" y="73.025" size="1.778" layer="95" rot="R180"/>
 <attribute name="VALUE" x="115.57" y="83.82" size="1.778" layer="96" rot="R180"/>
+</instance>
+<instance part="VDD6" gate="G$1" x="53.34" y="27.94" smashed="yes">
+<attribute name="VALUE" x="50.8" y="30.48" size="1.778" layer="96"/>
 </instance>
 </instances>
 <busses>
@@ -11090,7 +11094,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <segment>
 <pinref part="LCD" gate="A" pin="2"/>
 <wire x1="41.91" y1="25.4" x2="53.34" y2="25.4" width="0.1524" layer="91"/>
-<label x="48.26" y="25.4" size="1.778" layer="95"/>
+<pinref part="VDD6" gate="G$1" pin="VDD"/>
 </segment>
 <segment>
 <pinref part="BME280" gate="A" pin="6"/>
