@@ -21,7 +21,8 @@ Unfortunatelly I had to make three GND-connections to the second site to make th
 Special thanks to [dereisl](https://github.com/dereisl) for the perfect [documentation](https://github.com/dereisl/esp32-radio).  
 
 ### Case
-**W**ork **i**n **P**rogress  
+It is an easy to print case.  
+Probaly will make a new, improved version in the future.
 
 ## Software
 **W**ork **i**n **P**rogress
