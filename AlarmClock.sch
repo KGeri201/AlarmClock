@@ -10829,7 +10829,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <part name="GND8" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="VDD5" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="VDD" device=""/>
 <part name="GND5" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
-<part name="JP1" library="pinhead-ext" deviceset="PINHD-1X2" device="_2.54"/>
+<part name="BTN" library="pinhead-ext" deviceset="PINHD-1X2" device="_2.54"/>
 <part name="VDD6" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="VDD" device=""/>
 </parts>
 <sheets>
@@ -10978,8 +10978,8 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <instance part="GND5" gate="1" x="121.92" y="73.66" smashed="yes">
 <attribute name="VALUE" x="119.38" y="71.12" size="1.778" layer="96"/>
 </instance>
-<instance part="JP1" gate="G$1" x="109.22" y="78.74" smashed="yes" rot="R180">
-<attribute name="NAME" x="115.57" y="73.025" size="1.778" layer="95" rot="R180"/>
+<instance part="BTN" gate="G$1" x="109.22" y="78.74" smashed="yes" rot="R180">
+<attribute name="NAME" x="107.95" y="81.915" size="1.778" layer="95"/>
 <attribute name="VALUE" x="115.57" y="83.82" size="1.778" layer="96" rot="R180"/>
 </instance>
 <instance part="VDD6" gate="G$1" x="53.34" y="27.94" smashed="yes">
@@ -11059,7 +11059,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <pinref part="T1" gate="G$1" pin="E"/>
 </segment>
 <segment>
-<pinref part="JP1" gate="G$1" pin="1"/>
+<pinref part="BTN" gate="G$1" pin="1"/>
 <pinref part="GND5" gate="1" pin="GND"/>
 <wire x1="121.92" y1="76.2" x2="111.76" y2="76.2" width="0.1524" layer="91"/>
 </segment>
@@ -11126,11 +11126,6 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <pinref part="ESP32" gate="G$1" pin="SENSOR_VP"/>
 <label x="43.18" y="152.4" size="1.778" layer="95"/>
 </segment>
-<segment>
-<wire x1="111.76" y1="78.74" x2="121.92" y2="78.74" width="0.1524" layer="91"/>
-<pinref part="JP1" gate="G$1" pin="2"/>
-<label x="116.84" y="78.74" size="1.778" layer="95"/>
-</segment>
 </net>
 <net name="SENSOR_VN" class="0">
 <segment>
@@ -11138,22 +11133,12 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <pinref part="ESP32" gate="G$1" pin="SENSOR_VN"/>
 <label x="43.18" y="149.86" size="1.778" layer="95"/>
 </segment>
-<segment>
-<wire x1="104.14" y1="25.4" x2="114.3" y2="25.4" width="0.1524" layer="91"/>
-<pinref part="BME280" gate="A" pin="4"/>
-<label x="109.22" y="25.4" size="1.778" layer="95"/>
-</segment>
 </net>
 <net name="IO34" class="0">
 <segment>
 <wire x1="58.42" y1="147.32" x2="43.18" y2="147.32" width="0.1524" layer="91"/>
 <pinref part="ESP32" gate="G$1" pin="IO34"/>
 <label x="43.18" y="147.32" size="1.778" layer="95"/>
-</segment>
-<segment>
-<pinref part="BME280" gate="A" pin="3"/>
-<wire x1="104.14" y1="22.86" x2="114.3" y2="22.86" width="0.1524" layer="91"/>
-<label x="109.22" y="22.86" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="IO35" class="0">
@@ -11163,9 +11148,9 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <label x="43.18" y="144.78" size="1.778" layer="95"/>
 </segment>
 <segment>
-<pinref part="R1" gate="G$1" pin="1"/>
-<wire x1="182.88" y1="132.08" x2="172.72" y2="132.08" width="0.1524" layer="91"/>
-<label x="172.72" y="132.08" size="1.778" layer="95"/>
+<pinref part="BTN" gate="G$1" pin="2"/>
+<wire x1="111.76" y1="78.74" x2="121.92" y2="78.74" width="0.1524" layer="91"/>
+<label x="116.84" y="78.74" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="IO26" class="0">
@@ -11173,6 +11158,11 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <wire x1="58.42" y1="134.62" x2="43.18" y2="134.62" width="0.1524" layer="91"/>
 <pinref part="ESP32" gate="G$1" pin="IO26"/>
 <label x="43.18" y="134.62" size="1.778" layer="95"/>
+</segment>
+<segment>
+<pinref part="R1" gate="G$1" pin="1"/>
+<wire x1="182.88" y1="132.08" x2="170.18" y2="132.08" width="0.1524" layer="91"/>
+<label x="170.18" y="132.08" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="IO14" class="0">
@@ -11360,9 +11350,9 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <label x="43.18" y="142.24" size="1.778" layer="95"/>
 </segment>
 <segment>
-<pinref part="LCD" gate="A" pin="31"/>
-<wire x1="34.29" y1="63.5" x2="20.32" y2="63.5" width="0.1524" layer="91"/>
-<label x="20.32" y="63.5" size="1.778" layer="95"/>
+<pinref part="BME280" gate="A" pin="4"/>
+<wire x1="104.14" y1="25.4" x2="114.3" y2="25.4" width="0.1524" layer="91"/>
+<label x="109.22" y="25.4" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="IO33" class="0">
@@ -11382,6 +11372,11 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <wire x1="58.42" y1="137.16" x2="43.18" y2="137.16" width="0.1524" layer="91"/>
 <pinref part="ESP32" gate="G$1" pin="IO25"/>
 <label x="43.18" y="137.16" size="1.778" layer="95"/>
+</segment>
+<segment>
+<pinref part="BME280" gate="A" pin="3"/>
+<wire x1="104.14" y1="22.86" x2="114.3" y2="22.86" width="0.1524" layer="91"/>
+<label x="109.22" y="22.86" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="N$5" class="0">
@@ -11443,6 +11438,11 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <wire x1="58.42" y1="132.08" x2="43.18" y2="132.08" width="0.1524" layer="91"/>
 <pinref part="ESP32" gate="G$1" pin="IO27"/>
 <label x="43.18" y="132.08" size="1.778" layer="95"/>
+</segment>
+<segment>
+<pinref part="LCD" gate="A" pin="31"/>
+<wire x1="34.29" y1="63.5" x2="20.32" y2="63.5" width="0.1524" layer="91"/>
+<label x="20.32" y="63.5" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="IO23" class="0">
