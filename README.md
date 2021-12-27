@@ -1,4 +1,5 @@
-<img src="AlarmClock.svg" alt="alarm clock" height="200"/>    
+<img src="AlarmClock.svg" alt="alarm clock" height="200"/>
+
 # Alarm Clock
 An Open-Source, easy to build alarm clock.
 
