@@ -9,7 +9,7 @@ Due to my advanced age, it will be time to live my own life and I will not be ab
 To make sure, that I can be in time I wanted to buy a new alarm clock to have beside my smartphone.  
 I wanted one which is reliable, not depending on wall power and I can set, manage multiple alarms easily.  
 I searced through some sites, but I could not find any, which I liked.  
-So I designed on.  
+So I designed my own.  
 I wanted to mimik the clock of a general smartphone and set alarms easily through a touchscreen.  
 Because I use an ESP32 I also hope to be able to display some notifications through bluetooth.   
 
