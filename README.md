@@ -11,7 +11,7 @@ I wanted one which is reliable, not depending on wall power and I can set, manag
 I searced through some sites, but I could not find any, which I liked.  
 So I designed my own.  
 I wanted to mimik the clock of a general smartphone and set alarms easily through a touchscreen.  
-Because I use an ESP32 I also hope to be able to display some notifications through bluetooth.   
+Because I use an ESP32 I also hope to be able to display some notifications through bluetooth and use other features of it in the future.   
 
 ## Hardware
 ### PCB
