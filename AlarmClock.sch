@@ -6748,7 +6748,7 @@ Source: AVX .. aphvc.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="C-EU" urn="urn:adsk.eagle:component:23793/46" prefix="C" uservalue="yes" library_version="11">
+<deviceset name="C-EU" urn="urn:adsk.eagle:component:23793/45" prefix="C" uservalue="yes" library_version="10">
 <description>&lt;B&gt;CAPACITOR&lt;/B&gt;, European symbol</description>
 <gates>
 <gate name="G$1" symbol="C-EU" x="0" y="0"/>
@@ -6764,7 +6764,6 @@ Source: AVX .. aphvc.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="18" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -6779,7 +6778,6 @@ Source: AVX .. aphvc.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="2" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -6794,7 +6792,6 @@ Source: AVX .. aphvc.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="73" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -6809,7 +6806,6 @@ Source: AVX .. aphvc.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="88" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -6824,7 +6820,6 @@ Source: AVX .. aphvc.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="54" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -6839,7 +6834,6 @@ Source: AVX .. aphvc.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -6854,7 +6848,6 @@ Source: AVX .. aphvc.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -6869,7 +6862,6 @@ Source: AVX .. aphvc.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="3" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -6884,7 +6876,6 @@ Source: AVX .. aphvc.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="3" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -6899,7 +6890,6 @@ Source: AVX .. aphvc.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -6914,7 +6904,6 @@ Source: AVX .. aphvc.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -6929,7 +6918,6 @@ Source: AVX .. aphvc.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="4" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -6944,7 +6932,6 @@ Source: AVX .. aphvc.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -6959,7 +6946,6 @@ Source: AVX .. aphvc.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -6974,7 +6960,6 @@ Source: AVX .. aphvc.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -6989,7 +6974,6 @@ Source: AVX .. aphvc.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="56" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -7004,7 +6988,6 @@ Source: AVX .. aphvc.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="65" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -7019,7 +7002,6 @@ Source: AVX .. aphvc.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="14" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -7034,7 +7016,6 @@ Source: AVX .. aphvc.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="4" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -7049,7 +7030,6 @@ Source: AVX .. aphvc.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="16" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -7064,7 +7044,6 @@ Source: AVX .. aphvc.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -7079,7 +7058,6 @@ Source: AVX .. aphvc.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -7094,7 +7072,6 @@ Source: AVX .. aphvc.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -7109,7 +7086,6 @@ Source: AVX .. aphvc.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -7124,7 +7100,6 @@ Source: AVX .. aphvc.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -7139,7 +7114,6 @@ Source: AVX .. aphvc.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="1" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -7154,7 +7128,6 @@ Source: AVX .. aphvc.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="33" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -7169,7 +7142,6 @@ Source: AVX .. aphvc.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="29" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -7184,7 +7156,6 @@ Source: AVX .. aphvc.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="1" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -7199,7 +7170,6 @@ Source: AVX .. aphvc.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="9" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -7214,7 +7184,6 @@ Source: AVX .. aphvc.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="1" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -7229,7 +7198,6 @@ Source: AVX .. aphvc.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="1" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -7244,7 +7212,6 @@ Source: AVX .. aphvc.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -7259,7 +7226,6 @@ Source: AVX .. aphvc.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -7274,7 +7240,6 @@ Source: AVX .. aphvc.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -7289,7 +7254,6 @@ Source: AVX .. aphvc.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -7304,7 +7268,6 @@ Source: AVX .. aphvc.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="4" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -7319,7 +7282,6 @@ Source: AVX .. aphvc.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="1" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -7334,7 +7296,6 @@ Source: AVX .. aphvc.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -7349,7 +7310,6 @@ Source: AVX .. aphvc.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -7364,7 +7324,6 @@ Source: AVX .. aphvc.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -7379,7 +7338,6 @@ Source: AVX .. aphvc.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="3" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -7394,7 +7352,6 @@ Source: AVX .. aphvc.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -7409,7 +7366,6 @@ Source: AVX .. aphvc.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -7424,7 +7380,6 @@ Source: AVX .. aphvc.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -7439,7 +7394,6 @@ Source: AVX .. aphvc.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -7454,7 +7408,6 @@ Source: AVX .. aphvc.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -7469,7 +7422,6 @@ Source: AVX .. aphvc.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="2" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -7484,7 +7436,6 @@ Source: AVX .. aphvc.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -7499,7 +7450,6 @@ Source: AVX .. aphvc.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -7514,7 +7464,6 @@ Source: AVX .. aphvc.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -7529,7 +7478,6 @@ Source: AVX .. aphvc.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -7544,7 +7492,6 @@ Source: AVX .. aphvc.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -7559,7 +7506,6 @@ Source: AVX .. aphvc.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -7574,7 +7520,6 @@ Source: AVX .. aphvc.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -7589,7 +7534,6 @@ Source: AVX .. aphvc.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -7604,7 +7548,6 @@ Source: AVX .. aphvc.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -7619,7 +7562,6 @@ Source: AVX .. aphvc.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -7634,7 +7576,6 @@ Source: AVX .. aphvc.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -7649,7 +7590,6 @@ Source: AVX .. aphvc.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -7664,7 +7604,6 @@ Source: AVX .. aphvc.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="2" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -7679,7 +7618,6 @@ Source: AVX .. aphvc.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -7694,7 +7632,6 @@ Source: AVX .. aphvc.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -7709,7 +7646,6 @@ Source: AVX .. aphvc.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -7724,7 +7660,6 @@ Source: AVX .. aphvc.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -7739,7 +7674,6 @@ Source: AVX .. aphvc.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="15" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -7754,7 +7688,6 @@ Source: AVX .. aphvc.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="30" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -7769,7 +7702,6 @@ Source: AVX .. aphvc.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="52" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -7784,7 +7716,6 @@ Source: AVX .. aphvc.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="13" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -7799,7 +7730,6 @@ Source: AVX .. aphvc.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -7814,7 +7744,6 @@ Source: AVX .. aphvc.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -7829,7 +7758,6 @@ Source: AVX .. aphvc.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -7844,7 +7772,6 @@ Source: AVX .. aphvc.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -7859,7 +7786,6 @@ Source: AVX .. aphvc.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -7874,7 +7800,6 @@ Source: AVX .. aphvc.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -7889,7 +7814,6 @@ Source: AVX .. aphvc.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -7904,7 +7828,6 @@ Source: AVX .. aphvc.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -7919,7 +7842,6 @@ Source: AVX .. aphvc.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -7934,7 +7856,6 @@ Source: AVX .. aphvc.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -9979,7 +9900,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <part name="BT1" library="TheLibrary" deviceset="HALTER1XUM4-LF" device=""/>
 <part name="GND14" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="BT2" library="TheLibrary" deviceset="HALTER1XUM4-LF" device=""/>
-<part name="RST" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R1206" package3d_urn="urn:adsk.eagle:package:23540/2"/>
+<part name="BOOT" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R1206" package3d_urn="urn:adsk.eagle:package:23540/2"/>
 <part name="SERIAL" library="pinhead-ext" deviceset="PINHD-1X5" device="_2.54-SMD-90°"/>
 <part name="LCD" library="pinhead" library_urn="urn:adsk.eagle:library:325" deviceset="PINHD-2X20" device="" package3d_urn="urn:adsk.eagle:package:22443/2"/>
 <part name="GND2" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
@@ -9994,6 +9915,9 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <part name="GND5" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="BTN" library="pinhead-ext" deviceset="PINHD-1X2" device="_2.54"/>
 <part name="VDD6" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="VDD" device=""/>
+<part name="C5" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C1206" package3d_urn="urn:adsk.eagle:package:23618/2" value="0,1uF"/>
+<part name="GND9" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
+<part name="RST" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R1206" package3d_urn="urn:adsk.eagle:package:23540/2"/>
 </parts>
 <sheets>
 <sheet>
@@ -10025,31 +9949,31 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <attribute name="SHEET" x="248.92" y="1.27" size="2.54" layer="94"/>
 <attribute name="DRAWING_NAME" x="180.34" y="19.05" size="2.54" layer="94"/>
 </instance>
-<instance part="R9" gate="G$1" x="25.4" y="129.54" smashed="yes" rot="R90">
-<attribute name="NAME" x="21.0566" y="130.81" size="1.778" layer="95"/>
-<attribute name="VALUE" x="26.416" y="127.508" size="1.778" layer="96"/>
+<instance part="R9" gate="G$1" x="38.1" y="129.54" smashed="yes" rot="R90">
+<attribute name="NAME" x="33.7566" y="130.81" size="1.778" layer="95"/>
+<attribute name="VALUE" x="39.116" y="127.508" size="1.778" layer="96"/>
 </instance>
-<instance part="C3" gate="G$1" x="25.4" y="152.4" smashed="yes" rot="R180">
-<attribute name="NAME" x="22.098" y="154.432" size="1.778" layer="95"/>
-<attribute name="VALUE" x="25.4" y="150.749" size="1.778" layer="96"/>
+<instance part="C3" gate="G$1" x="38.1" y="152.4" smashed="yes" rot="R180">
+<attribute name="NAME" x="34.798" y="154.432" size="1.778" layer="95"/>
+<attribute name="VALUE" x="38.1" y="150.749" size="1.778" layer="96"/>
 </instance>
-<instance part="C4" gate="G$1" x="35.56" y="152.4" smashed="yes" rot="R180">
-<attribute name="NAME" x="32.258" y="154.432" size="1.778" layer="95"/>
-<attribute name="VALUE" x="35.56" y="151.003" size="1.778" layer="96"/>
+<instance part="C4" gate="G$1" x="48.26" y="152.4" smashed="yes" rot="R180">
+<attribute name="NAME" x="44.958" y="154.432" size="1.778" layer="95"/>
+<attribute name="VALUE" x="48.26" y="151.003" size="1.778" layer="96"/>
 </instance>
-<instance part="GND3" gate="1" x="25.4" y="147.32" smashed="yes">
-<attribute name="VALUE" x="22.86" y="144.78" size="1.778" layer="96"/>
+<instance part="GND3" gate="1" x="38.1" y="147.32" smashed="yes">
+<attribute name="VALUE" x="35.56" y="144.78" size="1.778" layer="96"/>
 </instance>
-<instance part="C2" gate="G$1" x="25.4" y="119.38" smashed="yes" rot="R180">
-<attribute name="NAME" x="21.59" y="121.666" size="1.778" layer="95"/>
-<attribute name="VALUE" x="25.4" y="117.729" size="1.778" layer="96"/>
+<instance part="C2" gate="G$1" x="38.1" y="119.38" smashed="yes" rot="R180">
+<attribute name="NAME" x="34.29" y="121.666" size="1.778" layer="95"/>
+<attribute name="VALUE" x="38.1" y="117.729" size="1.778" layer="96"/>
 </instance>
-<instance part="GND4" gate="1" x="25.4" y="114.3" smashed="yes">
-<attribute name="VALUE" x="22.86" y="111.76" size="1.778" layer="96"/>
+<instance part="GND4" gate="1" x="38.1" y="114.3" smashed="yes">
+<attribute name="VALUE" x="35.56" y="111.76" size="1.778" layer="96"/>
 </instance>
-<instance part="ESP32" gate="G$1" x="76.2" y="157.48" smashed="yes">
-<attribute name="NAME" x="63.5" y="175.514" size="1.778" layer="95"/>
-<attribute name="VALUE" x="63.5" y="169.926" size="1.778" layer="96" align="top-left"/>
+<instance part="ESP32" gate="G$1" x="88.9" y="157.48" smashed="yes">
+<attribute name="NAME" x="76.2" y="175.514" size="1.778" layer="95"/>
+<attribute name="VALUE" x="76.2" y="169.926" size="1.778" layer="96" align="top-left"/>
 </instance>
 <instance part="C6" gate="G$1" x="220.98" y="62.23" smashed="yes" rot="R180">
 <attribute name="NAME" x="217.424" y="64.77" size="1.778" layer="95"/>
@@ -10065,18 +9989,18 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <instance part="IC1" gate="G$1" x="231.14" y="67.31" smashed="yes">
 <attribute name="NAME" x="225.044" y="71.12" size="1.778" layer="95"/>
 </instance>
-<instance part="C1" gate="G$1" x="124.46" y="119.38" smashed="yes" rot="R270">
-<attribute name="NAME" x="120.142" y="121.92" size="1.778" layer="95"/>
-<attribute name="VALUE" x="124.333" y="117.094" size="1.778" layer="96"/>
+<instance part="C1" gate="G$1" x="137.16" y="119.38" smashed="yes" rot="R270">
+<attribute name="NAME" x="132.842" y="121.92" size="1.778" layer="95"/>
+<attribute name="VALUE" x="137.033" y="117.094" size="1.778" layer="96"/>
 </instance>
-<instance part="GND1" gate="1" x="132.08" y="116.84" smashed="yes">
-<attribute name="VALUE" x="129.54" y="114.3" size="1.778" layer="96"/>
+<instance part="GND1" gate="1" x="144.78" y="116.84" smashed="yes">
+<attribute name="VALUE" x="142.24" y="114.3" size="1.778" layer="96"/>
 </instance>
-<instance part="VDD2" gate="G$1" x="25.4" y="160.02" smashed="yes">
-<attribute name="VALUE" x="22.86" y="162.56" size="1.778" layer="96"/>
+<instance part="VDD2" gate="G$1" x="38.1" y="160.02" smashed="yes">
+<attribute name="VALUE" x="35.56" y="162.56" size="1.778" layer="96"/>
 </instance>
-<instance part="VDD3" gate="G$1" x="25.4" y="137.16" smashed="yes">
-<attribute name="VALUE" x="22.86" y="139.7" size="1.778" layer="96"/>
+<instance part="VDD3" gate="G$1" x="38.1" y="137.16" smashed="yes">
+<attribute name="VALUE" x="35.56" y="139.7" size="1.778" layer="96"/>
 </instance>
 <instance part="VDD4" gate="G$1" x="241.3" y="69.85" smashed="yes">
 <attribute name="VALUE" x="238.76" y="72.39" size="1.778" layer="96"/>
@@ -10096,9 +10020,9 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <attribute name="NAME" x="200.66" y="62.992" size="1.778" layer="95" font="vector" rot="R180" align="bottom-center"/>
 <attribute name="VALUE" x="200.66" y="71.628" size="1.778" layer="96" font="vector" rot="R180" align="top-center"/>
 </instance>
-<instance part="RST" gate="G$1" x="124.46" y="127" smashed="yes">
-<attribute name="NAME" x="122.6566" y="128.27" size="1.778" layer="95"/>
-<attribute name="VALUE" x="122.428" y="125.984" size="1.778" layer="96" rot="R270"/>
+<instance part="BOOT" gate="G$1" x="137.16" y="127" smashed="yes">
+<attribute name="NAME" x="133.8326" y="128.27" size="1.778" layer="95"/>
+<attribute name="VALUE" x="135.128" y="125.984" size="1.778" layer="96" rot="R270"/>
 </instance>
 <instance part="SERIAL" gate="A" x="246.38" y="137.16" smashed="yes">
 <attribute name="NAME" x="240.03" y="145.415" size="1.778" layer="95"/>
@@ -10148,6 +10072,17 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <instance part="VDD6" gate="G$1" x="53.34" y="27.94" smashed="yes">
 <attribute name="VALUE" x="50.8" y="30.48" size="1.778" layer="96"/>
 </instance>
+<instance part="C5" gate="G$1" x="10.16" y="147.32" smashed="yes" rot="R90">
+<attribute name="NAME" x="10.16" y="149.86" size="1.778" layer="95" rot="R180"/>
+<attribute name="VALUE" x="13.081" y="143.256" size="1.778" layer="96"/>
+</instance>
+<instance part="GND9" gate="1" x="7.62" y="142.24" smashed="yes">
+<attribute name="VALUE" x="5.08" y="139.7" size="1.778" layer="96"/>
+</instance>
+<instance part="RST" gate="G$1" x="12.7" y="154.94" smashed="yes">
+<attribute name="NAME" x="10.3886" y="156.21" size="1.778" layer="95"/>
+<attribute name="VALUE" x="10.668" y="153.924" size="1.778" layer="96" rot="R270"/>
+</instance>
 </instances>
 <busses>
 </busses>
@@ -10157,8 +10092,8 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <pinref part="C3" gate="G$1" pin="1"/>
 <pinref part="GND3" gate="1" pin="GND"/>
 <pinref part="C4" gate="G$1" pin="1"/>
-<wire x1="35.56" y1="149.86" x2="25.4" y2="149.86" width="0.1524" layer="91"/>
-<junction x="25.4" y="149.86"/>
+<wire x1="48.26" y1="149.86" x2="38.1" y2="149.86" width="0.1524" layer="91"/>
+<junction x="38.1" y="149.86"/>
 </segment>
 <segment>
 <pinref part="GND4" gate="1" pin="GND"/>
@@ -10166,18 +10101,18 @@ You are welcome to use this library for commercial purposes. For attribution, we
 </segment>
 <segment>
 <pinref part="ESP32" gate="G$1" pin="GND@1"/>
-<wire x1="58.42" y1="160.02" x2="43.18" y2="160.02" width="0.1524" layer="91"/>
-<label x="43.18" y="160.02" size="1.778" layer="95"/>
+<wire x1="71.12" y1="160.02" x2="55.88" y2="160.02" width="0.1524" layer="91"/>
+<label x="55.88" y="160.02" size="1.778" layer="95"/>
 </segment>
 <segment>
-<wire x1="119.38" y1="160.02" x2="106.68" y2="160.02" width="0.1524" layer="91"/>
+<wire x1="132.08" y1="160.02" x2="119.38" y2="160.02" width="0.1524" layer="91"/>
 <pinref part="ESP32" gate="G$1" pin="GND@38"/>
-<label x="114.3" y="160.02" size="1.778" layer="95"/>
+<label x="127" y="160.02" size="1.778" layer="95"/>
 </segment>
 <segment>
-<wire x1="71.12" y1="116.84" x2="71.12" y2="104.14" width="0.1524" layer="91"/>
+<wire x1="83.82" y1="116.84" x2="83.82" y2="104.14" width="0.1524" layer="91"/>
 <pinref part="ESP32" gate="G$1" pin="GND@15"/>
-<label x="71.12" y="104.14" size="1.778" layer="95" rot="R90"/>
+<label x="83.82" y="104.14" size="1.778" layer="95" rot="R90"/>
 </segment>
 <segment>
 <pinref part="C6" gate="G$1" pin="1"/>
@@ -10190,12 +10125,12 @@ You are welcome to use this library for commercial purposes. For attribution, we
 </segment>
 <segment>
 <pinref part="C1" gate="G$1" pin="1"/>
-<wire x1="132.08" y1="119.38" x2="127" y2="119.38" width="0.1524" layer="91"/>
+<wire x1="144.78" y1="119.38" x2="139.7" y2="119.38" width="0.1524" layer="91"/>
 <pinref part="GND1" gate="1" pin="GND"/>
-<wire x1="132.08" y1="119.38" x2="132.08" y2="127" width="0.1524" layer="91"/>
-<wire x1="132.08" y1="127" x2="129.54" y2="127" width="0.1524" layer="91"/>
-<pinref part="RST" gate="G$1" pin="2"/>
-<junction x="132.08" y="119.38"/>
+<wire x1="144.78" y1="119.38" x2="144.78" y2="127" width="0.1524" layer="91"/>
+<wire x1="144.78" y1="127" x2="142.24" y2="127" width="0.1524" layer="91"/>
+<pinref part="BOOT" gate="G$1" pin="2"/>
+<junction x="144.78" y="119.38"/>
 </segment>
 <segment>
 <pinref part="GND14" gate="1" pin="GND"/>
@@ -10226,6 +10161,14 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <pinref part="GND5" gate="1" pin="GND"/>
 <wire x1="121.92" y1="76.2" x2="111.76" y2="76.2" width="0.1524" layer="91"/>
 </segment>
+<segment>
+<pinref part="C5" gate="G$1" pin="1"/>
+<wire x1="7.62" y1="144.78" x2="7.62" y2="147.32" width="0.1524" layer="91"/>
+<pinref part="GND9" gate="1" pin="GND"/>
+<wire x1="7.62" y1="147.32" x2="7.62" y2="154.94" width="0.1524" layer="91"/>
+<junction x="7.62" y="147.32"/>
+<pinref part="RST" gate="G$1" pin="1"/>
+</segment>
 </net>
 <net name="VDD" class="0">
 <segment>
@@ -10238,10 +10181,10 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <segment>
 <pinref part="C3" gate="G$1" pin="2"/>
 <pinref part="C4" gate="G$1" pin="2"/>
-<wire x1="35.56" y1="157.48" x2="25.4" y2="157.48" width="0.1524" layer="91"/>
-<junction x="25.4" y="157.48"/>
-<wire x1="58.42" y1="157.48" x2="35.56" y2="157.48" width="0.1524" layer="91"/>
-<junction x="35.56" y="157.48"/>
+<wire x1="48.26" y1="157.48" x2="38.1" y2="157.48" width="0.1524" layer="91"/>
+<junction x="38.1" y="157.48"/>
+<wire x1="71.12" y1="157.48" x2="48.26" y2="157.48" width="0.1524" layer="91"/>
+<junction x="48.26" y="157.48"/>
 <pinref part="ESP32" gate="G$1" pin="3V3"/>
 <pinref part="VDD2" gate="G$1" pin="VDD"/>
 </segment>
@@ -10271,44 +10214,53 @@ You are welcome to use this library for commercial purposes. For attribution, we
 </net>
 <net name="EN" class="0">
 <segment>
-<wire x1="58.42" y1="154.94" x2="43.18" y2="154.94" width="0.1524" layer="91"/>
+<wire x1="71.12" y1="154.94" x2="55.88" y2="154.94" width="0.1524" layer="91"/>
 <pinref part="ESP32" gate="G$1" pin="EN"/>
-<label x="43.18" y="154.94" size="1.778" layer="95"/>
+<label x="55.88" y="154.94" size="1.778" layer="95"/>
 </segment>
 <segment>
 <pinref part="C2" gate="G$1" pin="2"/>
 <pinref part="R9" gate="G$1" pin="1"/>
-<wire x1="25.4" y1="124.46" x2="35.56" y2="124.46" width="0.1524" layer="91"/>
-<junction x="25.4" y="124.46"/>
-<label x="33.02" y="124.46" size="1.778" layer="95"/>
+<wire x1="38.1" y1="124.46" x2="48.26" y2="124.46" width="0.1524" layer="91"/>
+<junction x="38.1" y="124.46"/>
+<label x="45.72" y="124.46" size="1.778" layer="95"/>
+</segment>
+<segment>
+<pinref part="C5" gate="G$1" pin="2"/>
+<wire x1="17.78" y1="154.94" x2="25.4" y2="154.94" width="0.1524" layer="91"/>
+<wire x1="15.24" y1="147.32" x2="17.78" y2="147.32" width="0.1524" layer="91"/>
+<wire x1="17.78" y1="147.32" x2="17.78" y2="154.94" width="0.1524" layer="91"/>
+<junction x="17.78" y="154.94"/>
+<label x="22.86" y="154.94" size="1.778" layer="95"/>
+<pinref part="RST" gate="G$1" pin="2"/>
 </segment>
 </net>
 <net name="SENSOR_VP" class="0">
 <segment>
-<wire x1="58.42" y1="152.4" x2="43.18" y2="152.4" width="0.1524" layer="91"/>
+<wire x1="71.12" y1="152.4" x2="55.88" y2="152.4" width="0.1524" layer="91"/>
 <pinref part="ESP32" gate="G$1" pin="SENSOR_VP"/>
-<label x="43.18" y="152.4" size="1.778" layer="95"/>
+<label x="55.88" y="152.4" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="SENSOR_VN" class="0">
 <segment>
-<wire x1="58.42" y1="149.86" x2="43.18" y2="149.86" width="0.1524" layer="91"/>
+<wire x1="71.12" y1="149.86" x2="55.88" y2="149.86" width="0.1524" layer="91"/>
 <pinref part="ESP32" gate="G$1" pin="SENSOR_VN"/>
-<label x="43.18" y="149.86" size="1.778" layer="95"/>
+<label x="55.88" y="149.86" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="IO34" class="0">
 <segment>
-<wire x1="58.42" y1="147.32" x2="43.18" y2="147.32" width="0.1524" layer="91"/>
+<wire x1="71.12" y1="147.32" x2="55.88" y2="147.32" width="0.1524" layer="91"/>
 <pinref part="ESP32" gate="G$1" pin="IO34"/>
-<label x="43.18" y="147.32" size="1.778" layer="95"/>
+<label x="55.88" y="147.32" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="IO35" class="0">
 <segment>
-<wire x1="58.42" y1="144.78" x2="43.18" y2="144.78" width="0.1524" layer="91"/>
+<wire x1="71.12" y1="144.78" x2="55.88" y2="144.78" width="0.1524" layer="91"/>
 <pinref part="ESP32" gate="G$1" pin="IO35"/>
-<label x="43.18" y="144.78" size="1.778" layer="95"/>
+<label x="55.88" y="144.78" size="1.778" layer="95"/>
 </segment>
 <segment>
 <pinref part="BTN" gate="G$1" pin="2"/>
@@ -10318,9 +10270,9 @@ You are welcome to use this library for commercial purposes. For attribution, we
 </net>
 <net name="IO26" class="0">
 <segment>
-<wire x1="58.42" y1="134.62" x2="43.18" y2="134.62" width="0.1524" layer="91"/>
+<wire x1="71.12" y1="134.62" x2="55.88" y2="134.62" width="0.1524" layer="91"/>
 <pinref part="ESP32" gate="G$1" pin="IO26"/>
-<label x="43.18" y="134.62" size="1.778" layer="95"/>
+<label x="55.88" y="134.62" size="1.778" layer="95"/>
 </segment>
 <segment>
 <pinref part="R1" gate="G$1" pin="1"/>
@@ -10330,9 +10282,9 @@ You are welcome to use this library for commercial purposes. For attribution, we
 </net>
 <net name="IO14" class="0">
 <segment>
-<wire x1="58.42" y1="129.54" x2="43.18" y2="129.54" width="0.1524" layer="91"/>
+<wire x1="71.12" y1="129.54" x2="55.88" y2="129.54" width="0.1524" layer="91"/>
 <pinref part="ESP32" gate="G$1" pin="IO14"/>
-<label x="43.18" y="129.54" size="1.778" layer="95"/>
+<label x="55.88" y="129.54" size="1.778" layer="95"/>
 </segment>
 <segment>
 <pinref part="LCD" gate="A" pin="24"/>
@@ -10342,9 +10294,9 @@ You are welcome to use this library for commercial purposes. For attribution, we
 </net>
 <net name="IO12" class="0">
 <segment>
-<wire x1="58.42" y1="127" x2="43.18" y2="127" width="0.1524" layer="91"/>
+<wire x1="71.12" y1="127" x2="55.88" y2="127" width="0.1524" layer="91"/>
 <pinref part="ESP32" gate="G$1" pin="IO12"/>
-<label x="43.18" y="127" size="1.778" layer="95"/>
+<label x="55.88" y="127" size="1.778" layer="95"/>
 </segment>
 <segment>
 <wire x1="41.91" y1="58.42" x2="53.34" y2="58.42" width="0.1524" layer="91"/>
@@ -10354,16 +10306,16 @@ You are welcome to use this library for commercial purposes. For attribution, we
 </net>
 <net name="IO22" class="0">
 <segment>
-<wire x1="119.38" y1="154.94" x2="106.68" y2="154.94" width="0.1524" layer="91"/>
+<wire x1="132.08" y1="154.94" x2="119.38" y2="154.94" width="0.1524" layer="91"/>
 <pinref part="ESP32" gate="G$1" pin="IO22"/>
-<label x="114.3" y="154.94" size="1.778" layer="95"/>
+<label x="127" y="154.94" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="TXD0" class="0">
 <segment>
-<wire x1="119.38" y1="152.4" x2="106.68" y2="152.4" width="0.1524" layer="91"/>
+<wire x1="132.08" y1="152.4" x2="119.38" y2="152.4" width="0.1524" layer="91"/>
 <pinref part="ESP32" gate="G$1" pin="TXD0"/>
-<label x="114.3" y="152.4" size="1.778" layer="95"/>
+<label x="127" y="152.4" size="1.778" layer="95"/>
 </segment>
 <segment>
 <wire x1="243.84" y1="139.7" x2="231.14" y2="139.7" width="0.1524" layer="91"/>
@@ -10373,9 +10325,9 @@ You are welcome to use this library for commercial purposes. For attribution, we
 </net>
 <net name="RXD0" class="0">
 <segment>
-<wire x1="119.38" y1="149.86" x2="106.68" y2="149.86" width="0.1524" layer="91"/>
+<wire x1="132.08" y1="149.86" x2="119.38" y2="149.86" width="0.1524" layer="91"/>
 <pinref part="ESP32" gate="G$1" pin="RXD0"/>
-<label x="114.3" y="149.86" size="1.778" layer="95"/>
+<label x="127" y="149.86" size="1.778" layer="95"/>
 </segment>
 <segment>
 <wire x1="243.84" y1="137.16" x2="231.14" y2="137.16" width="0.1524" layer="91"/>
@@ -10385,16 +10337,16 @@ You are welcome to use this library for commercial purposes. For attribution, we
 </net>
 <net name="NC" class="0">
 <segment>
-<wire x1="119.38" y1="144.78" x2="106.68" y2="144.78" width="0.1524" layer="91"/>
+<wire x1="132.08" y1="144.78" x2="119.38" y2="144.78" width="0.1524" layer="91"/>
 <pinref part="ESP32" gate="G$1" pin="NC"/>
-<label x="114.3" y="144.78" size="1.778" layer="95"/>
+<label x="127" y="144.78" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="IO4" class="0">
 <segment>
-<wire x1="119.38" y1="129.54" x2="106.68" y2="129.54" width="0.1524" layer="91"/>
+<wire x1="132.08" y1="129.54" x2="119.38" y2="129.54" width="0.1524" layer="91"/>
 <pinref part="ESP32" gate="G$1" pin="IO4"/>
-<label x="114.3" y="129.54" size="1.778" layer="95"/>
+<label x="127" y="129.54" size="1.778" layer="95"/>
 </segment>
 <segment>
 <pinref part="LCD" gate="A" pin="29"/>
@@ -10404,20 +10356,20 @@ You are welcome to use this library for commercial purposes. For attribution, we
 </net>
 <net name="IO0" class="0">
 <segment>
-<wire x1="119.38" y1="127" x2="106.68" y2="127" width="0.1524" layer="91"/>
+<wire x1="132.08" y1="127" x2="119.38" y2="127" width="0.1524" layer="91"/>
 <pinref part="ESP32" gate="G$1" pin="IO0"/>
-<label x="114.3" y="127" size="1.778" layer="95"/>
+<label x="127" y="127" size="1.778" layer="95"/>
 <pinref part="C1" gate="G$1" pin="2"/>
-<wire x1="119.38" y1="119.38" x2="119.38" y2="127" width="0.1524" layer="91"/>
-<pinref part="RST" gate="G$1" pin="1"/>
-<junction x="119.38" y="127"/>
+<wire x1="132.08" y1="119.38" x2="132.08" y2="127" width="0.1524" layer="91"/>
+<pinref part="BOOT" gate="G$1" pin="1"/>
+<junction x="132.08" y="127"/>
 </segment>
 </net>
 <net name="IO2" class="0">
 <segment>
 <pinref part="ESP32" gate="G$1" pin="IO2"/>
-<wire x1="93.98" y1="116.84" x2="93.98" y2="104.14" width="0.1524" layer="91"/>
-<label x="93.98" y="104.14" size="1.778" layer="95" rot="R90"/>
+<wire x1="106.68" y1="116.84" x2="106.68" y2="104.14" width="0.1524" layer="91"/>
+<label x="106.68" y="104.14" size="1.778" layer="95" rot="R90"/>
 </segment>
 <segment>
 <wire x1="34.29" y1="55.88" x2="20.32" y2="55.88" width="0.1524" layer="91"/>
@@ -10427,9 +10379,9 @@ You are welcome to use this library for commercial purposes. For attribution, we
 </net>
 <net name="IO15" class="0">
 <segment>
-<wire x1="91.44" y1="116.84" x2="91.44" y2="104.14" width="0.1524" layer="91"/>
+<wire x1="104.14" y1="116.84" x2="104.14" y2="104.14" width="0.1524" layer="91"/>
 <pinref part="ESP32" gate="G$1" pin="IO15"/>
-<label x="91.44" y="104.14" size="1.778" layer="95" rot="R90"/>
+<label x="104.14" y="104.14" size="1.778" layer="95" rot="R90"/>
 </segment>
 <segment>
 <wire x1="34.29" y1="53.34" x2="20.32" y2="53.34" width="0.1524" layer="91"/>
@@ -10439,51 +10391,51 @@ You are welcome to use this library for commercial purposes. For attribution, we
 </net>
 <net name="SD1" class="0">
 <segment>
-<wire x1="88.9" y1="116.84" x2="88.9" y2="104.14" width="0.1524" layer="91"/>
+<wire x1="101.6" y1="116.84" x2="101.6" y2="104.14" width="0.1524" layer="91"/>
 <pinref part="ESP32" gate="G$1" pin="SD1"/>
-<label x="88.9" y="104.14" size="1.778" layer="95" rot="R90"/>
+<label x="101.6" y="104.14" size="1.778" layer="95" rot="R90"/>
 </segment>
 </net>
 <net name="SD0" class="0">
 <segment>
-<wire x1="86.36" y1="116.84" x2="86.36" y2="104.14" width="0.1524" layer="91"/>
+<wire x1="99.06" y1="116.84" x2="99.06" y2="104.14" width="0.1524" layer="91"/>
 <pinref part="ESP32" gate="G$1" pin="SDO"/>
-<label x="86.36" y="104.14" size="1.778" layer="95" rot="R90"/>
+<label x="99.06" y="104.14" size="1.778" layer="95" rot="R90"/>
 </segment>
 </net>
 <net name="CLK" class="0">
 <segment>
-<wire x1="83.82" y1="116.84" x2="83.82" y2="104.14" width="0.1524" layer="91"/>
+<wire x1="96.52" y1="116.84" x2="96.52" y2="104.14" width="0.1524" layer="91"/>
 <pinref part="ESP32" gate="G$1" pin="CLK"/>
-<label x="83.82" y="104.14" size="1.778" layer="95" rot="R90"/>
+<label x="96.52" y="104.14" size="1.778" layer="95" rot="R90"/>
 </segment>
 </net>
 <net name="CMD" class="0">
 <segment>
-<wire x1="81.28" y1="116.84" x2="81.28" y2="104.14" width="0.1524" layer="91"/>
+<wire x1="93.98" y1="116.84" x2="93.98" y2="104.14" width="0.1524" layer="91"/>
 <pinref part="ESP32" gate="G$1" pin="CMD"/>
-<label x="81.28" y="104.14" size="1.778" layer="95" rot="R90"/>
+<label x="93.98" y="104.14" size="1.778" layer="95" rot="R90"/>
 </segment>
 </net>
 <net name="SD3" class="0">
 <segment>
-<wire x1="78.74" y1="116.84" x2="78.74" y2="104.14" width="0.1524" layer="91"/>
+<wire x1="91.44" y1="116.84" x2="91.44" y2="104.14" width="0.1524" layer="91"/>
 <pinref part="ESP32" gate="G$1" pin="SD3"/>
-<label x="78.74" y="104.14" size="1.778" layer="95" rot="R90"/>
+<label x="91.44" y="104.14" size="1.778" layer="95" rot="R90"/>
 </segment>
 </net>
 <net name="SD2" class="0">
 <segment>
-<wire x1="76.2" y1="116.84" x2="76.2" y2="104.14" width="0.1524" layer="91"/>
+<wire x1="88.9" y1="116.84" x2="88.9" y2="104.14" width="0.1524" layer="91"/>
 <pinref part="ESP32" gate="G$1" pin="SD2"/>
-<label x="76.2" y="104.14" size="1.778" layer="95" rot="R90"/>
+<label x="88.9" y="104.14" size="1.778" layer="95" rot="R90"/>
 </segment>
 </net>
 <net name="IO13" class="0">
 <segment>
-<wire x1="73.66" y1="116.84" x2="73.66" y2="104.14" width="0.1524" layer="91"/>
+<wire x1="86.36" y1="116.84" x2="86.36" y2="104.14" width="0.1524" layer="91"/>
 <pinref part="ESP32" gate="G$1" pin="IO13"/>
-<label x="73.66" y="104.14" size="1.778" layer="95" rot="R90"/>
+<label x="86.36" y="104.14" size="1.778" layer="95" rot="R90"/>
 </segment>
 <segment>
 <wire x1="34.29" y1="58.42" x2="20.32" y2="58.42" width="0.1524" layer="91"/>
@@ -10508,9 +10460,9 @@ You are welcome to use this library for commercial purposes. For attribution, we
 </net>
 <net name="IO32" class="0">
 <segment>
-<wire x1="58.42" y1="142.24" x2="43.18" y2="142.24" width="0.1524" layer="91"/>
+<wire x1="71.12" y1="142.24" x2="55.88" y2="142.24" width="0.1524" layer="91"/>
 <pinref part="ESP32" gate="G$1" pin="IO32"/>
-<label x="43.18" y="142.24" size="1.778" layer="95"/>
+<label x="55.88" y="142.24" size="1.778" layer="95"/>
 </segment>
 <segment>
 <pinref part="BME280" gate="A" pin="4"/>
@@ -10520,9 +10472,9 @@ You are welcome to use this library for commercial purposes. For attribution, we
 </net>
 <net name="IO33" class="0">
 <segment>
-<wire x1="58.42" y1="139.7" x2="43.18" y2="139.7" width="0.1524" layer="91"/>
+<wire x1="71.12" y1="139.7" x2="55.88" y2="139.7" width="0.1524" layer="91"/>
 <pinref part="ESP32" gate="G$1" pin="IO33"/>
-<label x="43.18" y="139.7" size="1.778" layer="95"/>
+<label x="55.88" y="139.7" size="1.778" layer="95"/>
 </segment>
 <segment>
 <wire x1="41.91" y1="60.96" x2="53.34" y2="60.96" width="0.1524" layer="91"/>
@@ -10532,9 +10484,9 @@ You are welcome to use this library for commercial purposes. For attribution, we
 </net>
 <net name="IO25" class="0">
 <segment>
-<wire x1="58.42" y1="137.16" x2="43.18" y2="137.16" width="0.1524" layer="91"/>
+<wire x1="71.12" y1="137.16" x2="55.88" y2="137.16" width="0.1524" layer="91"/>
 <pinref part="ESP32" gate="G$1" pin="IO25"/>
-<label x="43.18" y="137.16" size="1.778" layer="95"/>
+<label x="55.88" y="137.16" size="1.778" layer="95"/>
 </segment>
 <segment>
 <pinref part="BME280" gate="A" pin="3"/>
@@ -10557,50 +10509,50 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <net name="IO18" class="0">
 <segment>
 <pinref part="ESP32" gate="G$1" pin="IO18"/>
-<wire x1="106.68" y1="139.7" x2="119.38" y2="139.7" width="0.1524" layer="91"/>
-<label x="114.3" y="139.7" size="1.778" layer="95"/>
+<wire x1="119.38" y1="139.7" x2="132.08" y2="139.7" width="0.1524" layer="91"/>
+<label x="127" y="139.7" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="IO21" class="0">
 <segment>
-<wire x1="119.38" y1="147.32" x2="106.68" y2="147.32" width="0.1524" layer="91"/>
+<wire x1="132.08" y1="147.32" x2="119.38" y2="147.32" width="0.1524" layer="91"/>
 <pinref part="ESP32" gate="G$1" pin="IO21"/>
-<label x="114.3" y="147.32" size="1.778" layer="95"/>
+<label x="127" y="147.32" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="IO19" class="0">
 <segment>
 <pinref part="ESP32" gate="G$1" pin="IO19"/>
-<wire x1="106.68" y1="142.24" x2="119.38" y2="142.24" width="0.1524" layer="91"/>
-<label x="114.3" y="142.24" size="1.778" layer="95"/>
+<wire x1="119.38" y1="142.24" x2="132.08" y2="142.24" width="0.1524" layer="91"/>
+<label x="127" y="142.24" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="IO5" class="0">
 <segment>
 <pinref part="ESP32" gate="G$1" pin="IO5"/>
-<wire x1="106.68" y1="137.16" x2="119.38" y2="137.16" width="0.1524" layer="91"/>
-<label x="114.3" y="137.16" size="1.778" layer="95"/>
+<wire x1="119.38" y1="137.16" x2="132.08" y2="137.16" width="0.1524" layer="91"/>
+<label x="127" y="137.16" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="IO17" class="0">
 <segment>
 <pinref part="ESP32" gate="G$1" pin="IO17"/>
-<wire x1="106.68" y1="134.62" x2="119.38" y2="134.62" width="0.1524" layer="91"/>
-<label x="114.3" y="134.62" size="1.778" layer="95"/>
+<wire x1="119.38" y1="134.62" x2="132.08" y2="134.62" width="0.1524" layer="91"/>
+<label x="127" y="134.62" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="IO16" class="0">
 <segment>
 <pinref part="ESP32" gate="G$1" pin="IO16"/>
-<wire x1="106.68" y1="132.08" x2="119.38" y2="132.08" width="0.1524" layer="91"/>
-<label x="114.3" y="132.08" size="1.778" layer="95"/>
+<wire x1="119.38" y1="132.08" x2="132.08" y2="132.08" width="0.1524" layer="91"/>
+<label x="127" y="132.08" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="IO27" class="0">
 <segment>
-<wire x1="58.42" y1="132.08" x2="43.18" y2="132.08" width="0.1524" layer="91"/>
+<wire x1="71.12" y1="132.08" x2="55.88" y2="132.08" width="0.1524" layer="91"/>
 <pinref part="ESP32" gate="G$1" pin="IO27"/>
-<label x="43.18" y="132.08" size="1.778" layer="95"/>
+<label x="55.88" y="132.08" size="1.778" layer="95"/>
 </segment>
 <segment>
 <pinref part="LCD" gate="A" pin="31"/>
@@ -10611,8 +10563,8 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <net name="IO23" class="0">
 <segment>
 <pinref part="ESP32" gate="G$1" pin="IO23"/>
-<wire x1="106.68" y1="157.48" x2="119.38" y2="157.48" width="0.1524" layer="91"/>
-<label x="114.3" y="157.48" size="1.778" layer="95"/>
+<wire x1="119.38" y1="157.48" x2="132.08" y2="157.48" width="0.1524" layer="91"/>
+<label x="127" y="157.48" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="N$7" class="0">
