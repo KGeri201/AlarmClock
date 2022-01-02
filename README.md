@@ -33,19 +33,9 @@ Amount | Value | Designation
 1 | BC817 (NPN Transistor) | T1
 1 | Button | BTN
 3 | AAA Batteryholder | BT1, BT2, BT3
-| Optional ||
+| Optional |
+| Span <td colspan=3>triple  <td colspan=2>double
 1 | BME280 | BME280
-
-|               |          Grouping             ||         Grouping 2         ||  Not Grouped    |
-| First Header  | Second Header | Third Header   | Forth Header | Fifth Header | Sixth Header    |
-| ------------- | :-----------: | -------------: | :----------: | :----------: | --------------- |
-| Tall Cell     |          *Long Cell*          ||         *Long Long Cell*                    |||
-| ^^            |   **Bold**    | 1. first item  | *Italic*     | 3. third item | + first point  |\
-| ^^            |               | 1. second item |              | 1. forth item | + second point |
-
-| New section   |     More      |         Data   | ... - -- --- |||
-| And more      | With an escaped \|          || "Try 'quotes' in quotes "         |||
-[Compicated table]
   
 Special thanks to [dereisl](https://github.com/dereisl) for the perfect [documentation](https://github.com/dereisl/esp32-radio).  
 
