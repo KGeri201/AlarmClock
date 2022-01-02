@@ -22,7 +22,7 @@ Unfortunatelly I had to make some GND-connections to the second site to make the
 
 #### Partlist  
 Amount | Value | Designation
--------|-------|------------
+-------| :---: | :--------:
 1 | ESP32-WROOM-32 (ESP32) | ESP32
 1 | ER | LCD
 1 | LD1117AS33TR (Volatge-Regulator) | IC1
@@ -33,7 +33,7 @@ Amount | Value | Designation
 1 | BC817 (NPN Transistor) | T1
 1 | Button | BTN
 3 | AAA Batteryholder | BT1, BT2, BT3
-|: Optional :|||
+| Optional ||
 1 | BME280 | BME280
   
 Special thanks to [dereisl](https://github.com/dereisl) for the perfect [documentation](https://github.com/dereisl/esp32-radio).  
