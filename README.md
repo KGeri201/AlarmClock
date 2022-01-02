@@ -33,13 +33,11 @@ Unfortunatelly I had to make some GND-connections to the second site to make the
 | 1 | BC817 (NPN Transistor) | T1 
 | 1 | Button | BTN 
 | 3 | AAA Batteryholder | BT1, BT2, BT3  
-|<td colspan=2>Optional</td>
+
+##### Optional
 | 1 | BME280 | BME280 
- 
- 
-| One    | Two | Three | Four    | Five  | Six
-|-|-|-|-|-|-
-| <td colspan=3>triple  <td colspan=3>double
+|-|-|-
+
   
 Special thanks to [dereisl](https://github.com/dereisl) for the perfect [documentation](https://github.com/dereisl/esp32-radio).  
 
