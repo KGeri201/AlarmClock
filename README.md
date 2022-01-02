@@ -21,20 +21,25 @@ It is a nearly one sided PCB.
 Unfortunatelly I had to make some GND-connections to the second site to make the design some sort of clean.  
 
 #### Partlist  
-|Amount | Value | Designation|
-|-------|-------|------------|
-| 1 | ESP32-WROOM-32 (ESP32) | ESP32 |
-| 1 | ER | LCD |
-| 1 | LD1117AS33TR (Volatge-Regulator) | IC1 |
-| 1 | SUMMER EPM 121 (buzzer) | SG1 |
-| 5 | 0,1µF | C1, C2, C4, C5 |
-| 2 | 10µF | C3, C7 |
-| 2 | 10k | R1, R9 |
-| 1 | BC817 (NPN Transistor) | T1 |
-| 1 | Button | BTN |
+|Amount | Value | Designation
+|-|-|-
+| 1 | ESP32-WROOM-32 (ESP32) | ESP32 
+| 1 | ER | LCD 
+| 1 | LD1117AS33TR (Volatge-Regulator) | IC1 
+| 1 | SUMMER EPM 121 (buzzer) | SG1 
+| 5 | 0,1µF | C1, C2, C4, C5 
+| 2 | 10µF | C3, C7 
+| 2 | 10k | R1, R9 
+| 1 | BC817 (NPN Transistor) | T1 
+| 1 | Button | BTN 
 | 3 | AAA Batteryholder | BT1, BT2, BT3  
 |<td colspan=2>Optional</td>
-| 1 | BME280 | BME280 |
+| 1 | BME280 | BME280 
+ 
+ 
+| One    | Two | Three | Four    | Five  | Six
+|-|-|-|-|-|-
+| <td colspan=3>triple  <td colspan=3>double
   
 Special thanks to [dereisl](https://github.com/dereisl) for the perfect [documentation](https://github.com/dereisl/esp32-radio).  
 
