@@ -20,7 +20,8 @@ Because I use an ESP32 I also hope to be able to display some notifications thro
 It is a nearly one sided PCB.   
 Unfortunatelly I had to make some GND-connections to the second site to make the design some sort of clean.  
 
-#### Partlist
+#### Partlist  
+
 Amount | Value | Designation
 -----------------------------
 1 | ESP32-WROOM-32 (ESP32) | ESP32
