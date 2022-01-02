@@ -23,7 +23,7 @@ Unfortunatelly I had to make some GND-connections to the second site to make the
 #### Partlist  
 
 Amount | Value | Designation
------------------------------
+-------|-------|------------
 1 | ESP32-WROOM-32 (ESP32) | ESP32
 1 | ER | LCD
 1 | LD1117AS33TR (Volatge-Regulator) | IC1
