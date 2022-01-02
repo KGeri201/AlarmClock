@@ -10262,11 +10262,6 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <pinref part="ESP32" gate="G$1" pin="IO35"/>
 <label x="55.88" y="144.78" size="1.778" layer="95"/>
 </segment>
-<segment>
-<pinref part="BTN" gate="G$1" pin="2"/>
-<wire x1="111.76" y1="78.74" x2="121.92" y2="78.74" width="0.1524" layer="91"/>
-<label x="116.84" y="78.74" size="1.778" layer="95"/>
-</segment>
 </net>
 <net name="IO26" class="0">
 <segment>
@@ -10465,9 +10460,9 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <label x="55.88" y="142.24" size="1.778" layer="95"/>
 </segment>
 <segment>
-<pinref part="BME280" gate="A" pin="4"/>
-<wire x1="104.14" y1="25.4" x2="114.3" y2="25.4" width="0.1524" layer="91"/>
-<label x="109.22" y="25.4" size="1.778" layer="95"/>
+<pinref part="BTN" gate="G$1" pin="2"/>
+<wire x1="111.76" y1="78.74" x2="121.92" y2="78.74" width="0.1524" layer="91"/>
+<label x="116.84" y="78.74" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="IO33" class="0">
@@ -10477,9 +10472,9 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <label x="55.88" y="139.7" size="1.778" layer="95"/>
 </segment>
 <segment>
-<wire x1="41.91" y1="60.96" x2="53.34" y2="60.96" width="0.1524" layer="91"/>
-<pinref part="LCD" gate="A" pin="30"/>
-<label x="48.26" y="60.96" size="1.778" layer="95"/>
+<pinref part="BME280" gate="A" pin="4"/>
+<wire x1="104.14" y1="25.4" x2="114.3" y2="25.4" width="0.1524" layer="91"/>
+<label x="109.22" y="25.4" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="IO25" class="0">
@@ -10546,6 +10541,11 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <pinref part="ESP32" gate="G$1" pin="IO16"/>
 <wire x1="119.38" y1="132.08" x2="132.08" y2="132.08" width="0.1524" layer="91"/>
 <label x="127" y="132.08" size="1.778" layer="95"/>
+</segment>
+<segment>
+<pinref part="LCD" gate="A" pin="30"/>
+<wire x1="41.91" y1="60.96" x2="53.34" y2="60.96" width="0.1524" layer="91"/>
+<label x="48.26" y="60.96" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="IO27" class="0">
