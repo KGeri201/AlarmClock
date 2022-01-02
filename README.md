@@ -32,7 +32,7 @@ Amount | Value | Designation
 2 | 10k | R1, R9
 1 | BC817 (NPN Transistor) | T1
 1 | Button | BTN
-3 | AAA Batteryholder | BT1, BT2, BT3
+3 | AAA Batteryholder | BT1, BT2, BT3  
  <td colspan=3>Optional |
 1 | BME280 | BME280
   
