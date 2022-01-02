@@ -34,11 +34,8 @@ Unfortunatelly I had to make some GND-connections to the second site to make the
 | 1 | Button | BTN 
 | 3 | AAA Batteryholder | BT1, BT2, BT3  
 
-##### Optional
-| 1 | BME280 | BME280 
-|-|-|-
+As an optional accesory you can get a bme280 sensor module and connect it to the pinheader marked for it on the board.
 
-  
 Special thanks to [dereisl](https://github.com/dereisl) for the perfect [documentation](https://github.com/dereisl/esp32-radio).  
 
 ### Case
