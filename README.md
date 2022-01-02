@@ -25,7 +25,7 @@ Unfortunatelly I had to make some GND-connections to the second site to make the
 |-|-|-
 | 1 | ESP32-WROOM-32 (ESP32) | ESP32 
 | 1 | ER | LCD 
-| 1 | LD1117AS33TR (Volatge-Regulator) | IC1 
+| 1 | LD1117AS33TR (Voltage-Regulator) | IC1 
 | 1 | SUMMER EPM 121 (buzzer) | SG1 
 | 5 | 0,1µF | C1, C2, C4, C5 
 | 2 | 10µF | C3, C7 
