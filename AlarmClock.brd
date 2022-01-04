@@ -2317,13 +2317,13 @@ design rules under a new name.</description>
 <wire x1="91.62" y1="52.4" x2="89.5" y2="52.4" width="0.508" layer="1"/>
 <wire x1="89.5" y1="52.4" x2="84.6" y2="47.5" width="0.508" layer="1"/>
 <wire x1="84.6" y1="47.5" x2="84.6" y2="35.6" width="0.508" layer="1"/>
-<wire x1="84.6" y1="35.6" x2="83.4" y2="34.4" width="0.508" layer="1"/>
-<wire x1="81.2" y1="37.61" x2="80.1" y2="37.61" width="0.508" layer="1"/>
+<wire x1="84.6" y1="35.6" x2="83.5" y2="34.5" width="0.508" layer="1"/>
+<wire x1="81.2" y1="37.61" x2="80.5" y2="37.61" width="0.508" layer="1"/>
 <wire x1="81.2" y1="37.61" x2="81.3" y2="37.71" width="0.508" layer="1"/>
-<wire x1="80.1652625" y1="34.4" x2="83.4" y2="34.4" width="0.508" layer="1"/>
-<wire x1="79.4" y1="36.91" x2="79.4" y2="35.1652625" width="0.508" layer="1"/>
-<wire x1="79.4" y1="35.1652625" x2="80.1652625" y2="34.4" width="0.508" layer="1"/>
-<wire x1="79.4" y1="36.91" x2="80.1" y2="37.61" width="0.508" layer="1"/>
+<wire x1="81.1652625" y1="34.5" x2="83.5" y2="34.5" width="0.508" layer="1"/>
+<wire x1="79.9" y1="37.01" x2="79.9" y2="35.7652625" width="0.508" layer="1"/>
+<wire x1="79.9" y1="35.7652625" x2="81.1652625" y2="34.5" width="0.508" layer="1"/>
+<wire x1="79.9" y1="37.01" x2="80.5" y2="37.61" width="0.508" layer="1"/>
 </signal>
 <signal name="IO0">
 <contactref element="ESP32" pad="25"/>
@@ -2345,26 +2345,26 @@ design rules under a new name.</description>
 <contactref element="LCD" pad="25"/>
 <wire x1="78.015" y1="34.95" x2="78.015" y2="34.015" width="0.508" layer="1"/>
 <wire x1="78.015" y1="34.015" x2="78" y2="34" width="0.508" layer="1"/>
-<wire x1="78" y1="34" x2="78.9396" y2="33.0604" width="0.508" layer="1"/>
-<wire x1="84.29435" y1="33.0604" x2="86.3396" y2="35.10565" width="0.508" layer="1"/>
+<wire x1="78" y1="34" x2="79.9396" y2="32.0604" width="0.508" layer="1"/>
+<wire x1="85.29435" y1="32.0604" x2="87.3396" y2="34.10565" width="0.508" layer="1"/>
 <wire x1="88.12603125" y1="44.7184" x2="91.4784" y2="44.7184" width="0.508" layer="1"/>
 <wire x1="91.4784" y1="44.7184" x2="92.85" y2="46.09" width="0.508" layer="1"/>
-<wire x1="86.3396" y1="35.10565" x2="86.3396" y2="42.93196875" width="0.508" layer="1"/>
-<wire x1="86.3396" y1="42.93196875" x2="88.12603125" y2="44.7184" width="0.508" layer="1"/>
-<wire x1="78.9396" y1="33.0604" x2="84.29435" y2="33.0604" width="0.508" layer="1"/>
+<wire x1="87.3396" y1="34.10565" x2="87.3396" y2="43.93196875" width="0.508" layer="1"/>
+<wire x1="87.3396" y1="43.93196875" x2="88.12603125" y2="44.7184" width="0.508" layer="1"/>
+<wire x1="79.9396" y1="32.0604" x2="85.29435" y2="32.0604" width="0.508" layer="1"/>
 </signal>
 <signal name="IO15">
 <contactref element="ESP32" pad="23"/>
 <contactref element="LCD" pad="23"/>
 <wire x1="76.745" y1="34.95" x2="76.745" y2="33.255" width="0.508" layer="1"/>
-<wire x1="76.745" y1="33.255" x2="78.3" y2="31.7" width="0.508" layer="1"/>
-<wire x1="78.3" y1="31.7" x2="85" y2="31.7" width="0.508" layer="1"/>
-<wire x1="87.6" y1="34.3" x2="87.6" y2="40.8" width="0.508" layer="1"/>
-<wire x1="87.6" y1="40.8" x2="89.0816" y2="42.2816" width="0.508" layer="1"/>
+<wire x1="76.745" y1="33.255" x2="79.3" y2="30.7" width="0.508" layer="1"/>
+<wire x1="79.3" y1="30.7" x2="86" y2="30.7" width="0.508" layer="1"/>
+<wire x1="88.6" y1="33.3" x2="88.6" y2="41.8" width="0.508" layer="1"/>
+<wire x1="88.6" y1="41.8" x2="89.0816" y2="42.2816" width="0.508" layer="1"/>
 <wire x1="89.0816" y1="42.2816" x2="91.59396875" y2="42.2816" width="0.508" layer="1"/>
 <wire x1="92.85" y1="43.55" x2="92.85" y2="43.53763125" width="0.508" layer="1"/>
 <wire x1="92.85" y1="43.53763125" x2="91.59396875" y2="42.2816" width="0.508" layer="1"/>
-<wire x1="85" y1="31.7" x2="87.6" y2="34.3" width="0.508" layer="1"/>
+<wire x1="86" y1="30.7" x2="88.6" y2="33.3" width="0.508" layer="1"/>
 </signal>
 <signal name="SD1">
 <contactref element="ESP32" pad="22"/>
@@ -2474,18 +2474,23 @@ design rules under a new name.</description>
 <contactref element="ESP32" pad="27"/>
 <contactref element="LCD" pad="30"/>
 <wire x1="90.31" y1="51.17" x2="90.17" y2="51.17" width="0.508" layer="16"/>
-<wire x1="90.17" y1="51.17" x2="78" y2="39" width="0.508" layer="16"/>
-<via x="78" y="39" extent="1-16" drill="0.35"/>
-<wire x1="78" y1="39" x2="81.28" y2="39" width="0.508" layer="1"/>
 <wire x1="81.28" y1="39" x2="81.3" y2="38.98" width="0.508" layer="1"/>
+<wire x1="90.31" y1="51.17" x2="86" y2="46.86" width="0.508" layer="1"/>
+<wire x1="86" y1="46.86" x2="86" y2="35" width="0.508" layer="1"/>
+<wire x1="86" y1="35" x2="84.2" y2="33.2" width="0.508" layer="1"/>
+<wire x1="80.8" y1="33.2" x2="79.1" y2="34.9" width="0.508" layer="1"/>
+<wire x1="79.1" y1="34.9" x2="79.1" y2="37.7" width="0.508" layer="1"/>
+<wire x1="79.1" y1="37.7" x2="80.4" y2="39" width="0.508" layer="1"/>
+<wire x1="80.4" y1="39" x2="81.28" y2="39" width="0.508" layer="1"/>
+<wire x1="84.2" y1="33.2" x2="80.8" y2="33.2" width="0.508" layer="1"/>
 </signal>
 <signal name="IO27">
 <contactref element="ESP32" pad="12"/>
 <contactref element="LCD" pad="31"/>
 <wire x1="63.3" y1="38.98" x2="62.28" y2="38.98" width="0.508" layer="1"/>
-<wire x1="62" y1="38.7" x2="62" y2="32" width="0.508" layer="1"/>
-<wire x1="62.28" y1="38.98" x2="62" y2="38.7" width="0.508" layer="1"/>
-<wire x1="62" y1="32" x2="69.5" y2="24.5" width="0.508" layer="1"/>
+<wire x1="61.6" y1="38.3" x2="61.6" y2="32.4" width="0.508" layer="1"/>
+<wire x1="62.28" y1="38.98" x2="61.6" y2="38.3" width="0.508" layer="1"/>
+<wire x1="61.6" y1="32.4" x2="69.5" y2="24.5" width="0.508" layer="1"/>
 <wire x1="93.5" y1="24.5" x2="96" y2="27" width="0.508" layer="1"/>
 <wire x1="96" y1="27" x2="96" y2="50.56" width="0.508" layer="1"/>
 <wire x1="96" y1="50.56" x2="92.85" y2="53.71" width="0.508" layer="1"/>
