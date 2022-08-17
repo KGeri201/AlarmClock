@@ -74,7 +74,7 @@ Probaly will make a new, improved version in the future.
 [HimbeersaftLP](https://github.com/HimbeersaftLP)
 
 ## License
-[GNU GENERAL PUBLIC LICENSE](https://choosealicense.com/licenses/gpl-3.0/)
+[GNU GENERAL PUBLIC LICENSE](LICENSE)
 
 ## Project status
 In development.
