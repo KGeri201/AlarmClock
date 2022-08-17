@@ -29,7 +29,7 @@ Unfortunatelly I had to make some GND-connections to the second site to make the
 | 1 | SUMMER EPM 121 (buzzer) | SG1 
 | 5 | 0,1µF | C1, C2, C4, C5, C6 
 | 2 | 10µF | C3, C7 
-| 2 | 10k | R1, R2, R3, R9 
+| 4 | 10k | R1, R2, R3, R9 
 | 1 | BC817 (NPN Transistor) | T1 
 | 1 | Button | BTN 
 | 3 | AAA Batteryholder | BT1, BT2, BT3  
