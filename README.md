@@ -46,9 +46,25 @@ Probaly will make a new, improved version in the future.
 **W**ork **i**n **P**rogress
 
 ### Pinout
-|GPIO | Connected to
+|GPIO | Screen
 |-|-
-| 1 |  
+| 12 | MISO
+| 13 | MOSI
+| 14 | SCLK
+| 15 | CS
+| 2 | DC
+| nc | RST
+| 16 | T_SCL
+| 27 | T_SDA
+
+|GPIO | BME280
+|-|-
+
+|GPIO | Other
+|-|-
+|-| Button
+|-| Speaker
+|35| voltage divider
 
 ## Credits
 [KGeri201](https://github.com/KGeri201)
