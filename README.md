@@ -45,6 +45,11 @@ Probaly will make a new, improved version in the future.
 ## Software
 **W**ork **i**n **P**rogress
 
+### Pinout
+|GPIO | Connected to
+|-|-
+| 1 |  
+
 ## Credits
 [KGeri201](https://github.com/KGeri201)
 
