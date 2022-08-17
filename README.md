@@ -59,11 +59,13 @@ Probaly will make a new, improved version in the future.
 
 |GPIO | BME280
 |-|-
+|33|-
+|25|-
 
 |GPIO | Other
 |-|-
-|-| Button
-|-| Speaker
+|32| Button
+|26| Speaker
 |35| voltage divider
 
 ## Credits
