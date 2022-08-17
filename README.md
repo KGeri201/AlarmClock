@@ -36,8 +36,6 @@ Unfortunatelly I had to make some GND-connections to the second site to make the
 
 As an optional accesory you can get a BME280 sensor module and connect it to the pinheader marked for it on the board.
 
-Special thanks to [dereisl](https://github.com/dereisl) for the perfect [documentation](https://github.com/dereisl/esp32-radio).  
-
 ### Case
 It is an easy to print case.  
 Probaly will make a new, improved version in the future.
@@ -71,7 +69,7 @@ Probaly will make a new, improved version in the future.
 ## Credits
 [KGeri201](https://github.com/KGeri201)
 
-[HimbeersaftLP](https://github.com/HimbeersaftLP)
+Special thanks to [HimbeersaftLP](https://github.com/HimbeersaftLP) for the help.
 
 ## License
 [GNU GENERAL PUBLIC LICENSE](LICENSE)
