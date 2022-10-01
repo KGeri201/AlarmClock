@@ -40,10 +40,7 @@ As an optional accesory you can get a BME280 sensor module and connect it to the
 It is an easy to print case.  
 Probaly will make a new, improved version in the future.
 
-## Software
-**W**ork **i**n **P**rogress
-
-### Pinout
+## Pinout
 |GPIO | Screen
 |-|-
 | 12 | MISO
@@ -65,6 +62,9 @@ Probaly will make a new, improved version in the future.
 |32| Button
 |26| Speaker
 |35| voltage divider
+
+## Software
+**W**ork **i**n **P**rogress
 
 ## Credits
 [KGeri201](https://github.com/KGeri201)
