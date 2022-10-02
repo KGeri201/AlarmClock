@@ -72,7 +72,7 @@ Probaly will make a new, improved version in the future.
 Special thanks to [HimbeersaftLP](https://github.com/HimbeersaftLP) for the help.
 
 ## License
-[GNU GENERAL PUBLIC LICENSE](LICENSE)
+[Apache License 2.0](LICENSE)
 
 ## Project status
 In development.
